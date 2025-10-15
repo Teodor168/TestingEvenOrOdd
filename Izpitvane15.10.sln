@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izpitvane15.10", "Izpitvane15.10\Izpitvane15.10.csproj", "{53C77225-37CF-45FF-8121-F504D37B9858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForEvenOrOddNumbers", "TestForEvenOrOddNumbers\TestForEvenOrOddNumbers.csproj", "{EA5754A3-C4E5-4416-9BDE-F88FF765FF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C77225-37CF-45FF-8121-F504D37B9858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C77225-37CF-45FF-8121-F504D37B9858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C77225-37CF-45FF-8121-F504D37B9858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C77225-37CF-45FF-8121-F504D37B9858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5754A3-C4E5-4416-9BDE-F88FF765FF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5754A3-C4E5-4416-9BDE-F88FF765FF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5754A3-C4E5-4416-9BDE-F88FF765FF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5754A3-C4E5-4416-9BDE-F88FF765FF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A0E5B0-A45D-47CF-95E5-B436987B69AA}
+	EndGlobalSection
+EndGlobal

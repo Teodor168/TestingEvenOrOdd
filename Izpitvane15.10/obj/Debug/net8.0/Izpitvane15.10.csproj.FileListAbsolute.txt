@@ -1,0 +1,14 @@
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\bin\Debug\net8.0\Izpitvane15.10.exe
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\bin\Debug\net8.0\Izpitvane15.10.deps.json
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\bin\Debug\net8.0\Izpitvane15.10.runtimeconfig.json
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\bin\Debug\net8.0\Izpitvane15.10.dll
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\bin\Debug\net8.0\Izpitvane15.10.pdb
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.AssemblyInfoInputs.cache
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.AssemblyInfo.cs
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.dll
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\refint\Izpitvane15.10.dll
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.pdb
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.genruntimeconfig.cache
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\ref\Izpitvane15.10.dll
