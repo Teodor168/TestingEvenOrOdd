@@ -12,3 +12,4 @@ C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane1
 C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.pdb
 C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.genruntimeconfig.cache
 C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\ref\Izpitvane15.10.dll
+C:\Users\1212-3\Documents\Теодор Илиев 11а\Izpitvane15.10\Izpitvane15.10\obj\Debug\net8.0\Izpitvane15.10.sourcelink.json

@@ -12,6 +12,7 @@ namespace TestForEvenOrOddNumbers
         {
         }
 
+        [TestCase (1)]
         [TestCase(5)]
         public void TestIsEvenWithOddNumber(int number)
         {
@@ -32,33 +33,33 @@ namespace TestForEvenOrOddNumbers
             Assert.That(res, Is.True);
         }
         [TestCase(-6)]
-        public void TestIsEvenOrOddForNegativeEvenNumber(int number)
+        public void TestIsEvenForNegativeEvenNumber(int number)
         {
             bool res = num.IsEven(number);
 
             Assert.AreEqual(true, res);
         }
         [TestCase(-5)]
-        public void TestIsEvenOrOddForNEgativeOddNumber(int number)
+        public void TestIsEvenForNEgativeOddNumber(int number)
         {
             bool reult = num.IsEven(number);
             Assert.AreEqual(false, reult);
         }
 
-        [Test]
+        
         [TestCase(0)]
         [TestCase(8)]
         [TestCase(-62)]
-        public void TestIsEvenOrOddWithThreeEvenNumbers(int number)
+        public void TestIsEvenWithThreeEvenNumbers(int number)
         {
             bool res = num.IsEven(number);
             Assert.AreEqual(true, res);
         }
-        [Test]
-        [TestCase  (1) ]
-        [TestCase (5)]
-        [TestCase (101)]
-        public void TestIsEvenOrOddWithOddNumbers(int nums)
+       
+        [TestCase  (-1) ]
+        [TestCase (-5)]
+        [TestCase (-101)]
+        public void TestIsEvenWithOddNegaqtiveNumbers(int nums)
         {
             
             bool res = num.IsEven(nums);
